@@ -21,15 +21,15 @@ void reed_ekidan2() {
   printf("We learned that git and GitHub are amazing, powerful tools!\n");
 }
 
-void velazquez_(){
-  printf("Adrian Velazquez and \n");
+void velazquez53_Muzzammil3_Llakaj2(){
+  printf("Adrian Velazquez and Muzzammil Muzzammil, and Steri Llakaj.\n");
   printf("We learned that git and Github are amazing for project manegement as it allows multiple people to contribute to one project.\n");
 }
 
 int main()
 {
     printf("This code has been created by the students of CS 211, Fall 2022!\n\n");
-    velazquez_();
+    velazquez53_Muzzammil3_Llakaj2();
     reed_ekidan2();
     
     return 0;
